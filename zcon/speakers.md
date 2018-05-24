@@ -10,7 +10,6 @@ Name | Affiliation
 ------------ | -------------
 Nathan Wilcox | Zcash Company, CTO
 David Vorick | Sia, Cofounder
-Justin Smith | XMR Systems, CEO
 Jonathan Rouach | QED-it, CEO
 Ian Muñoz | Zcash Company, DevOps
 Brad Miller | Zcash Company, Engineer
@@ -28,4 +27,4 @@ Marshall Gaucher | Zcash Company, Engineer
 Nic Carter | Coinmetrics.io, Cocreator
 Sean Bowe | Zcash Company, Engineer
 Daniel Benarroch | QED-it, Lead Cryptographer
-Ayo Akinyele | Researcher
+J. Ayo Akinyele | YeleTech Security, President 
