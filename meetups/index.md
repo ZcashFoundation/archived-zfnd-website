@@ -93,7 +93,7 @@ Don’t be afraid to start small, especially if you don’t have much experience
 
 If you don’t live in a big city, it might be worth casting a wider net by starting or joining a more general blockchain or privacy meetup group. We are happy to help with that as well.
 
-## Meetup Organizer(s)
+## Organizing
 
 Look for other people who can get involved, via online channels (such as the chat, the forum, the subreddit, or Twitter).
 It’s not strictly required, but aim to find at least one and eventually two or three other members in your group to assist or co-organize.
