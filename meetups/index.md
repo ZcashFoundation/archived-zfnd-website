@@ -67,7 +67,9 @@ And don't forget Twitter. Tag [@ZcashFoundation](https://twitter.com/zcashfounda
 
 ### 5) Repeat all of the above on a regular basis!
 
-A printable version of the checklist is coming soon! Here is a one-page introduction to Zcash that may come in handy: [Color version](https://drive.google.com/file/d/0B17UGNtR0dOJVTJFOFpQcEpCcTUwYVo5WXVRWV9HMjdtdlNR/view?usp=sharing), [black-and-white version](https://drive.google.com/file/d/0B17UGNtR0dOJaW1zR3RqcWJ3OEJlajBnZGxFVm1zSEN3anlJ/view?usp=sharing).
+Here is a printable version of the checklist: [Color version](https://drive.google.com/file/d/0B17UGNtR0dOJTDRSVHhpTVBJaThiYjhlMkRqdFR6SFF4OFVB/view?usp=sharing), [black-and-white](https://drive.google.com/file/d/0B17UGNtR0dOJaW1zR3RqcWJ3OEJlajBnZGxFVm1zSEN3anlJ/view?usp=sharing).
+
+And here is a one-page introduction to Zcash that may come in handy: [Color version](https://drive.google.com/file/d/0B17UGNtR0dOJVTJFOFpQcEpCcTUwYVo5WXVRWV9HMjdtdlNR/view?usp=sharing), [black-and-white version](https://drive.google.com/file/d/0B17UGNtR0dOJaW1zR3RqcWJ3OEJlajBnZGxFVm1zSEN3anlJ/view?usp=sharing).
 
 Would more detailed guidance be helpful? Then read on!
 
