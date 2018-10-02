@@ -11,11 +11,17 @@
 
 - title: Meetups
   url: /meetups/
+  
+- title: Forum
+  url: https://forum.zcashcommunity.com/
+
+- title: Chat
+  url: https://chat.zcashcommunity.com/
 
 - title: Zcon
   url: /zcon/
 
-- title: Repository
+- title: GitHub Repo
   url: https://github.com/ZcashFoundation/ZcashFoundation/
 
 - title: Listservs
