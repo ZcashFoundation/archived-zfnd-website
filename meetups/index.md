@@ -8,7 +8,7 @@ excerpt: "All the information you need to run a Zcash meetup."
 
 Don't want to read a long guide? Here's the ultra quick-and-dirty version:
 
-* [Network on Meetup.com](https://www.meetup.com/pro/zcash-foundation/)
+* [Our network on Meetup.com](https://www.meetup.com/pro/zcash-foundation/)
 * [Planning checklist, color](https://z.cash.foundation/meetups/Zcash%20meetups%20checklist%20color.pdf)
 * [Planning checklist, B&W](https://z.cash.foundation/meetups/Zcash%20meetups%20checklist%20BW.pdf)
 * [One-page Zcash intro, color](https://z.cash.foundation/meetups/Zcash%20onepager%20color.pdf)
