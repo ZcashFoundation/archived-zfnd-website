@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Announcement of the 2018Q2 Grant Recipients"
+title: "Announcement of the 2018Q2 Grant Winners"
 excerpt: "Projects that will strengthen and expand the Zcash ecosystem in the coming months and years."
 categories: blog
 tags: [grants]
@@ -247,7 +247,7 @@ Congratulations to all of the winners! We extend our gratitude to everyone who s
 
 Grant winners are expected to provide monthly updates to the Zcash Foundation’s [general mailing list](https://lists.z.cash.foundation/mailman/listinfo/general) and otherwise be forthcoming in communicating their progress. The Zcash Foundation will issue regular reminders of this requirement to grant winners. However, we have no method of actually compelling compliance.
 
-### Setbacks and Future Plans
+### Future Plans
 
 The 2018Q2 round of the Grants Program was [originally announced](https://z.cash.foundation/blog/q2-grant-program/) in April, 2018, and we appreciate the applicants’ patience in awaiting final decisions.
 
