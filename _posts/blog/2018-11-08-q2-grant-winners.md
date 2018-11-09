@@ -62,7 +62,7 @@ The pseudonymous applicant, Solar Designer, is an expert in proof-of-work functi
 
 ProgPoW is also addressed and discussed in [proposal #15](https://github.com/ZcashFoundation/GrantProposals-2018Q2/issues/15). Under the assumption — on which there is no consensus — that ASIC resistance is desirable and attainable, ProgPoW is a strong candidate. Evaluating its security and performance are crucial, and we believe that the proposer (who has also provided insightful analysis of Equihash in the past) will provide a valuable and well-reasoned perspective.
 
-We suggest adjusting the scope explicitly to include a systematic comparison with other prominent GPU-friendly ASIC-resistant PoW options, such as updated Equihash (to be studied at more depth by [Proposal #38](https://github.com/ZcashFoundation/GrantProposals-2018Q2/issues/38)). For such a comparison, it would be reasonable to cite others' analysis or claims rather than doing an in-depth evaluation as proposed for ProgPoW. Regardless, putting things in comparative context will be very helpful.
+We suggest adjusting the scope explicitly to include a systematic comparison with other prominent GPU-friendly ASIC-resistant PoW options, such as updated Equihash (to be studied at more depth by [proposal #38](https://github.com/ZcashFoundation/GrantProposals-2018Q2/issues/38)). For such a comparison, it would be reasonable to cite others' analysis or claims rather than doing an in-depth evaluation as proposed for ProgPoW. Regardless, putting things in comparative context will be very helpful.
 
 ### Scholarship for Research on Zero-Knowledge Proofs
 
