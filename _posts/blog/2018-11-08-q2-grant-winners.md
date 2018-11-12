@@ -37,7 +37,7 @@ The Committee also reached out to several proposers to adjust the scope or budge
 
 Out of the full proposals, [13 were accepted](https://github.com/ZcashFoundation/GrantProposals-2018Q2/issues?utf8=%E2%9C%93&q=label%3Agrant-winner) and eight were rejected. You can overview the proposals and discussion thereof [in the GitHub repo](https://github.com/ZcashFoundation/GrantProposals-2018Q2/issues?utf8=%E2%9C%93&q=is%3Aissue).
 
-The total budget for this round of grants was originally $250,000 USD, but we plan to dispense $264,100; the proposals merit extra expenditure. Our thanks to the [Blockchain Institute](http://blockchaininstitute.io/) for doubling our initial budget of $125,000 with their generous matching contribution!
+The total budget for this round of grants was originally $250,000 USD, but we plan to dispense $264,100; the proposals merit extra expenditure. Our thanks to the [Research Institute (formerly known as the Blockchain Institute)](https://researchinstitute.io/) for doubling our initial budget of $125,000 with their generous matching contribution!
 
 The price of Zcash still [fluctuates too much](https://coinmetrics.io/charts/#assets=zec_zoom=1509753600000,1541289600000) for $ZEC to be a useful unit of account for this purpose, but grant awards will be made using Zcash and sent to Sapling shielded addresses. We plan to proceed with disbursements following a final confirmation that all of the grants are within the strictures of our 501(c)(3) status, and that each payment will comply with the relevant United States regulations.
 
