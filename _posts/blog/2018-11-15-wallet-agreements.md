@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Announcement of the 2018Q2 Grant Winners"
-excerpt: "Projects that will strengthen and expand the Zcash ecosystem in the coming months and years."
+title: "Supporting zec-qt-wallet and an iOS Reference Wallet"
+excerpt: "We are funding two open-source wallets that will further Zcash adoption."
 categories: blog
-tags: [grants]
+tags: [wallets]
 image:
   feature:
-date: 2018-11-08
+date: 2018-11-15
 author: sonya
 ---
 
