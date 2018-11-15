@@ -14,7 +14,7 @@ The Zcash Foundation has formed agreements to financially support the ongoing de
 
 Wallets that are both full-featured and easy to use are critical for Zcash adoption. Open-source products, by virtue of being available for anyone to freely access, audit, or improve, have facilitated growth in the mainstream tech industry for decades. The cryptocurrency world, including the Zcash community, has strongly supported open-source infrastructure from the start.
 
-zec-qt-wallet is a cross-platform wallet GUI and full node that encompasses support for shielded Sapling addresses. Next week, zec-qt-wallet will make a triple 1.0 release, adding MacOS to Linux and Windows for the first tiem. MacOS users will be able to benefit from Kulkarni’s work building out this foundational infrastructure for Zcash usage.
+zec-qt-wallet is a cross-platform wallet GUI and full node that encompasses support for shielded Sapling addresses. Next week, zec-qt-wallet will make a triple 1.0 release, adding MacOS to Linux and Windows for the first time. Soon MacOS users will be able to benefit from Kulkarni’s work building out this foundational infrastructure for Zcash usage.
 
 X Wallet has served Monero users on iOS for a year, and its maker has proven a dedicated advocate for mobile wallet privacy. Smith gave a [presentation at Zcon0 about X Wallet](https://www.youtube.com/watch?v=4buh1quMbr4&list=PL40dyJ0UYTLK507afWUMgzUYeh-i4qQWS&index=15), including a [UX scorecard](https://jsmith.website/static/pub/scorecard.pdf) to help fellow mobile wallet creators evaluate their approaches.
 
