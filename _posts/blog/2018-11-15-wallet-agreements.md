@@ -10,7 +10,7 @@ date: 2018-11-15
 author: sonya
 ---
 
-The Zcash Foundation has formed agreements to financially support the ongoing development and maintenance of [zec-qt-wallet](https://github.com/adityapk00/zec-qt-wallet), created by Aditya Kulkarni, and a new iOS reference wallet to be developed by Justin Smith, maker of [X Wallet](https://xwallet.tech/). zec-qt-wallet will continue with its existing license, and the new iOS reference wallet will also be open source.
+The Zcash Foundation has formed agreements to financially support the ongoing development and maintenance of [zec-qt-wallet](https://github.com/adityapk00/zec-qt-wallet), created by Aditya Kulkarni, and a new iOS reference wallet to be developed by Justin Smith, maker of [X Wallet](https://xwallet.tech/). zec-qt-wallet will continue with its existing license, and the iOS wallet will also be open source.
 
 Wallets that are both full-featured and easy to use are critical for Zcash adoption. Open-source products, by virtue of being available for anyone to freely access, audit, or improve, have facilitated growth in the mainstream tech industry for decades. The cryptocurrency world, including the Zcash community, has strongly supported open-source infrastructure from the start.
 
